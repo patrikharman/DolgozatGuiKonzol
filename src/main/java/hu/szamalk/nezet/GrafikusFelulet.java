@@ -31,7 +31,7 @@ public class GrafikusFelulet {
         frame.setContentPane(pnlMain);
         frame.setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
         frame.setVisible(true);
-        
+
         DefaultListModel<String> dlm = new DefaultListModel<>();
         list1.setModel(dlm);
 

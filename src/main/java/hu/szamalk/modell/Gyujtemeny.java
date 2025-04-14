@@ -8,7 +8,7 @@ public class Gyujtemeny {
     private List<Mukincs> mukincsek;
 
     public Gyujtemeny() {
-        // Inicializáljuk a mukincsek listát, hogy az módosítható legyen
+
         mukincsek = new ArrayList<>();
     }
 
@@ -16,7 +16,7 @@ public class Gyujtemeny {
         return mukincsek;
     }
 
-    // Ha van egy metódus, amely elemeket ad a gyűjteményhez
+
     public void addMukincs(Mukincs mukincs) {
         mukincsek.add(mukincs);
     }
