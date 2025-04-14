@@ -1,0 +1,8 @@
+Szobrok{anyag='anyag1', evszam=1960}
+Szobrok{anyag='anyag2', evszam=1560}
+Szobrok{anyag='anyag3', evszam=2020}
+Szobrok{anyag='anyag4', evszam=1900}
+Festmenyek{stilus='stilus1', technika='szén'}
+Festmenyek{stilus='stilus2', technika='ceruza'}
+Festmenyek{stilus='stilus3', technika='festék'}
+Festmenyek{stilus='stilus4', technika='vegyes'}
